@@ -33,9 +33,5 @@ Sqlite
 HTML
 CSS
 
-# Links
 
-Project Pitch - https://docs.google.com/document/d/1pkWWo7e6ycXklo2EcFTktJuztLZ1CSqiVa4TzuLLPTc/edit#
-
-Trello Board - https://trello.com/b/bMcHfV23/devtalk
 
